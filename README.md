@@ -31,7 +31,7 @@ Busca carreras que puedan ser de su interés.
 ![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/disenadora.png "Diseñadora")
 
 ##### ¿Qué piensa?
-Cree que es momento de darle un giro sustentable al Diseño, salir de lo tradicional y buscar nuevos procesos y materiales, que sean concientes de la crisis socioambiental en la que estamos
+Cree que es momento de darle un giro sustentable al diseño, salir de lo tradicional y buscar nuevos procesos y materiales, que sean concientes de su entorno.
 ##### ¿Qué siente?
 Tiene esperanza que las cosas que empezarán a hacerse de forma diferente. Se siente conectada a la naturaleza, ya que esta podría ser la clave para grandes soluciones.
 ##### ¿Qué hace?
@@ -71,4 +71,12 @@ Busca hacer sus proyectos de forma interdisciplinaria, le gusta el cruce de dife
 
 
 ## Referentes
+
+
+1.
+2.
+3.
+4.
+5.
+6.
 

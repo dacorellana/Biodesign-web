@@ -38,15 +38,22 @@ Busca hacer sus proyectos de forma interdisciplinaria, le gusta el cruce de dife
 
 ## Antecedentes
 
+![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/Neri-oxman.png "Neri Oxman")
+
 [Neri Oxman](https://oxman.com/)
+
 
 [UI design by @sa_arteaga](https://www.instagram.com/p/CM7dWuajRvA/)
 
+
 [Designed by @ui.offline](https://www.instagram.com/p/CMNCWVxA02r/)
+
 
 [Designed by @qclaydesign](https://www.instagram.com/p/CM9MOFjjxvg/)
 
+
 [Circular Design](https://www.circulardesignguide.com/)
+
 
 [Portafolio Nicolás Robertson](https://nicolasrobertson.com/)
 

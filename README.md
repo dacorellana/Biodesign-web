@@ -73,10 +73,10 @@ Busca hacer sus proyectos de forma interdisciplinaria, le gusta el cruce de dife
 ## Referentes
 ![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/Moodboard-1.png "Moodboard")
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. Colores vibrantes y sensaión de luminosidad. Sentir que la imagen esta viva y en movimiento.
+2. Estructuras limpias y bioinspiradas, sensación de zoom en fotografías. Sensación de estar viendo a través de un microscopio.
+3. [NATURE: COLLABORATIONS IN DESIGN - Cooper Hewitt](https://www.cooperhewitt.org/publications/nature-collaborations-in-design/) Los proyectos que salen el libro, al igual que la estética de este. Jugar con profundidas y colores, fotografías que dan cuenta de los procesos.
+4. Estética: Colores, relieves y transparencias. Que transmiten 
+5. Estructuras naturales, que transmiten la complejidad y pureza de los seres vivos.
+6. Proyectos bioinspirados: Se puede pensar que el biodiseño es solo naturaleza, pero no. También pueden inspirarse en estructuras y mecanismos naturales para hacer un producto limpio.
 

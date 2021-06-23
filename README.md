@@ -71,7 +71,7 @@ Busca hacer sus proyectos de forma interdisciplinaria, le gusta el cruce de dife
 
 
 ## Referentes
-![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/moodboard-1.png "Moodboard")
+![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/Moodboard-1.png "Moodboard")
 
 1.
 2.

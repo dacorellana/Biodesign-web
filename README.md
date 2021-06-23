@@ -6,8 +6,8 @@ Difundir conocimiento, proyectos e innovaciones en torno al Biodiseño
 
 ## ¿Para quiénes? 
 
-### Ecoemprendedor(a)
-![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/ecoemprendedor-perfil.png "Ecoemprendedor")
+### Ecoemprendedor
+![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/ecoemprendedor.png "Ecoemprendedor")
 
 ¿Qué piensa?
 Piensa que buscando alternativas más eco puede darle mayor valor a su emprendimiento y aportar con su granito al cuidado del medio mbiente. 
@@ -20,9 +20,12 @@ Se dedica a buscar nuevas alternativas para mejorar su negocio. N
 
 
 ### Estudiante
+![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/estudiante.png "Estudiante")
 
 
-### Diseñador(a)
+### Diseñadora
+![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/disenadora.png "Diseñadora")
+
 ¿Qué piensa?
 Cree que es momento de darle un giro sustentable al Diseño, quiere explorar nuevos 
 ¿Qué piensa?

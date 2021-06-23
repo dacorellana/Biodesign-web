@@ -21,9 +21,9 @@ Se dedica a buscar nuevas alternativas para encontrar un negocio innovador y sus
 ![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/estudiante.png "Estudiante")
 
 ### ¿Qué piensa?
-Cree que no va a encontrar alguna área de estudio que sea de su interés para elegir una carrera
+Cree que no va a encontrar alguna área de estudio que sea de su interés para elegir una carrera, no se siente identificado ningun ramo del colegio.
 ### ¿Qué siente?
-Esta estresado y confundido porque no sabe que estudiar, 
+Esta estresado y confundido porque no sabe que estudiar.
 ### ¿Qué hace?
 Busca carreras que puedan ser de su interés.
 

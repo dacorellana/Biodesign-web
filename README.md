@@ -14,7 +14,7 @@ Piensa que buscando alternativas más eco puede darle mayor valor a su emprendim
 ##### ¿Qué siente?
 Esta cansdo de siempre ver lo mismo, cree que puede encontrar una nueva oportunidad de emprender.
 ##### ¿Qué hace?
-Se dedica a buscar nuevas alternativas para encontrar un negocio innovador y sustentable.
+Busca inspiración y referentes para encontrar una idea innovadora y sustentable.
 
 
 ### Estudiante de enseñanza media

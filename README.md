@@ -39,24 +39,28 @@ Busca hacer sus proyectos de forma interdisciplinaria, le gusta el cruce de dife
 ## Antecedentes
 
 ![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/Neri-oxman.png "Neri Oxman")
-
 [Neri Oxman](https://oxman.com/)
+→ Contenido y portada con videos
 
-
+![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/Neri-oxman.png "Neri Oxman")
 [UI design by @sa_arteaga](https://www.instagram.com/p/CM7dWuajRvA/)
+→ Minimalismo y tipografía
 
-
+![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/Neri-oxman.png "Neri Oxman")
 [Designed by @ui.offline](https://www.instagram.com/p/CMNCWVxA02r/)
+→ Zoom a información relevante
 
-
+![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/Neri-oxman.png "Neri Oxman")
 [Designed by @qclaydesign](https://www.instagram.com/p/CM9MOFjjxvg/)
+→ Uso de tipografía con la imagen
 
-
+![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/Neri-oxman.png "Neri Oxman")
 [Circular Design](https://www.circulardesignguide.com/)
+→ Colores utilizados e imagenes interactivas
 
-
+![alt text](https://github.com/dacorellana/Biodesign-web/blob/main/imagenes/Neri-oxman.png "Neri Oxman")
 [Portafolio Nicolás Robertson](https://nicolasrobertson.com/)
-
+→ Simplicidad al mostrar la información y proyectos en galería
 
 ## Referentes
 

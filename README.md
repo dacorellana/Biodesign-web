@@ -1,8 +1,7 @@
 ## Página web Biodiseño: Materiales, proyectos e innovaciones
 
 ## ¿Para qué?
-Difundir conocimiento, proyectos e innovaciones en torno al Biodiseño
-
+Difundir proyectos, productos e innovaciones en torno al Biodiseño, para generar una base de información de avances respecto al Diseño inspirado en la naturaleza y la ciencia.
 
 ## ¿Para quiénes? 
 
@@ -12,7 +11,7 @@ Difundir conocimiento, proyectos e innovaciones en torno al Biodiseño
 ##### ¿Qué piensa?
 Piensa que buscando alternativas más eco puede darle mayor valor a su emprendimiento y aportar con su granito al cuidado del medio mbiente. 
 ##### ¿Qué siente?
-Esta cansdo de siempre ver lo mismo, cree que puede encontrar una nueva oportunidad de emprender.
+Esta cansdo de siempre ver lo mismo, cree que puede encontrar una nueva oportunidad para su emprendimiento.
 ##### ¿Qué hace?
 Busca inspiración y referentes para encontrar una idea innovadora y sustentable.
 
